@@ -1,0 +1,31 @@
+ a {
+     text-decoration: none;
+   }
+body.black {
+  background-color: black;
+  color: #fff;
+}
+body.white {
+  background-color: #fff(0, 0, 0, 0);
+  color: black;
+}
+ header{
+      border-bottom: 1px solid pink;
+      padding: 20px;
+    }
+ nav{
+       border-right: 1px solid pink;
+      width: 200px;
+       height: 300px;
+      float: left;
+   }  
+ article{
+       float: left;
+       padding: 20px;
+     }
+ nav ol{
+     list-style: none;
+     }
+#호박 {
+  float: right;
+}
